@@ -1,5 +1,5 @@
-#/home/cybermax
-#https://t.me/CyberSpyWare
+#/home/cybermax !
+#https://t.me/RedTeamArea
 
 
 
@@ -15,11 +15,11 @@ def Metasploit():
 
    {red}[X] {green}CYBER-PAYLOAD-CREATOR [X]{red}
 
-   {green}Programmer : {red}@Cyber_Xp
+   {green}Programmer : {red}@Cyber0Max
 
-   {green}GitHub : CyberSpyWare
+   {green}GitHub : CyberDevMax
 
-   {green}Telegram : {red}https://t.me/CyberSpyWare
+   {green}Telegram : {red}https://t.me/RedTeamArea
   
      ''')
     options = f'''
