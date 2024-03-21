@@ -2,7 +2,7 @@
 
 🟣 This Tool helps you install Metasploit without problems, and create a payload
 
-🟣 Programmer : @Cyber_Xp
+🟣 Programmer : @Cyber0Max
 
 
-🟣 Telegram : t.me/CyberSpyWare
+🟣 Telegram : t.me/RedTeamArea
